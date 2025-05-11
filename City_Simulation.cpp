@@ -1614,7 +1614,7 @@ void citySimulation::analyzeArea()
 
             else if (regionGrid[i][j] == 'I') 
             {
-                industrialBounds += dataPopulation[i][j];
+                industrialBounds += dataPopulation[i][j]; 
             }
 
             else if (regionGrid[i][j] == 'C') 
