@@ -165,6 +165,7 @@ Available Goods: 1
 
 ```````````````````````````````````````````````````````
 
+```````````````````````````````````````````````````````
 
 ## What the SECOND Half output for SimCity will show:
 
@@ -265,6 +266,7 @@ Hospitals Feature:
 Reducing Illness Impacted by: 26% reduction rate per meter.
 Hospital Recovery by: 1 per cell meter.
 
+```````````````````````````````````````````````````````
 
 ## Other Notes:
 - Make sure that config1.txt and region1.csv files are in the same directory as the executable.
