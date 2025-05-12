@@ -165,9 +165,9 @@ Available Goods: 1
 
 ```````````````````````````````````````````````````````
 
-```````````````````````````````````````````````````````
-
 ## What the SECOND Half output for SimCity will show:
+
+```````````````````````````````````````````````````````
 
 Grid for Advance Pollution with Heavy Polluters Markers:
 1 1 ! # T T T   
